@@ -1,7 +1,6 @@
-# Namibia2026 - NUST Version
+# E-learning UI and Feature Survey
 
-## Start of Block: Introduction/Consent
-**E-learning UI and Feature Survey**
+## Introduction/Consent
 
 ### Monetary Compensation
 Participants will have the option to provide a valid email address to enter a raffle. Two N$400 prizes will be awarded to randomly selected participants. Emails will only be collected on completion of the survey. Winners will be contacted via email after the survey is concluded.
@@ -62,40 +61,40 @@ Which design do you prefer?
 ### UI Design 2
 Which design do you prefer?
 
-* **Variant A** ![Variant A 2](./UI%20Images/Variant%20A2.png)
-* **Variant B** ![Variant B 2](./UI%20Images/Variant%20B2.png)
+- [ ] **Variant A** ![Variant A 2](./UI%20Images/Variant%20A2.png)
+- [ ] **Variant B** ![Variant B 2](./UI%20Images/Variant%20B2.png)
 
 *(Optional) Briefly describe why you chose this design:* ________________________________________________________________
 
 ### UI Design 3
 Which design do you prefer?
 
-* **Variant A** ![Variant A 3](./UI%20Images/Variant%20B3.png)
-* **Variant B** ![Variant B 3](./UI%20Images/Variant%20A3.png)
+- [ ] **Variant A** ![Variant A 3](./UI%20Images/Variant%20B3.png)
+- [ ] **Variant B** ![Variant B 3](./UI%20Images/Variant%20A3.png)
 
 *(Optional) Briefly describe why you chose this design:* _______________________________________________________________
 
 ### UI Design 4
 Which design do you prefer?
 
-* **Variant A** ![Variant A 4](./UI%20Images/Variant%20A4.png)
-* **Variant B** ![Variant B 4](./UI%20Images/Variant%20B4.png)
+- [ ] **Variant A** ![Variant A 4](./UI%20Images/Variant%20A4.png)
+- [ ] **Variant B** ![Variant B 4](./UI%20Images/Variant%20B4.png)
 
 *(Optional) Briefly describe why you chose this design:* ____________________________________________________________
 
 ### UI Design 5
 Which design do you prefer?
 
-* **Variant A** ![Variant A 5](./UI%20Images/Variant%20B5.png)
-* **Variant B** ![Variant B 5](./UI%20Images/Variant%20A5.png)
+- [ ] **Variant A** ![Variant A 5](./UI%20Images/Variant%20B5.png)
+- [ ] **Variant B** ![Variant B 5](./UI%20Images/Variant%20A5.png)
 
 *(Optional) Briefly describe why you chose this design:* _______________________________________________________________
 
 ### UI Design 6
 Which design do you prefer?
 
-* **Variant A** ![Variant A 6](./UI%20Images/Variant%20B6.png)
-* **Variant B** ![Variant B 6](./UI%20Images/Variant%20A6.png)
+- [ ] **Variant A** ![Variant A 6](./UI%20Images/Variant%20B6.png)
+- [ ] **Variant B** ![Variant B 6](./UI%20Images/Variant%20A6.png)
 
 *(Optional) Briefly describe why you chose this design:* ________________________________________________________________
 
@@ -109,10 +108,9 @@ Rank the following resource out of 5 stars:
 ⭐ ⭐ ⭐ ⭐ ⭐
 
 *(Optional) Briefly explain why you chose 1 star:*
-________________________________________________________________
-
+___________________________________________________
 *(Optional) Briefly explain why you chose 5 stars:*
-________________________________________________________________
+___________________________________________________
 
 ---
 
@@ -121,10 +119,10 @@ Rank the following resource out of 5 stars:
 ⭐ ⭐ ⭐ ⭐ ⭐
 
 *(Optional) Briefly explain why you chose 1 star:*
-________________________________________________________________
+___________________________________________________
 
 *(Optional) Briefly explain why you chose 5 stars:*
-________________________________________________________________
+___________________________________________________
 
 ---
 
@@ -133,10 +131,10 @@ Rank the following resource out of 5 stars:
 ⭐ ⭐ ⭐ ⭐ ⭐
 
 *(Optional) Briefly explain why you chose 1 star:*
-________________________________________________________________
+___________________________________________________
 
 *(Optional) Briefly explain why you chose 5 stars:*
-________________________________________________________________
+___________________________________________________
 
 ---
 
@@ -145,10 +143,10 @@ Rank the following resource out of 5 stars:
 ⭐ ⭐ ⭐ ⭐ ⭐
 
 *(Optional) Briefly explain why you chose 1 star:*
-________________________________________________________________
+___________________________________________________
 
 *(Optional) Briefly explain why you chose 5 stars:*
-________________________________________________________________
+___________________________________________________
 
 ---
 
@@ -157,10 +155,10 @@ Rank the following resource out of 5 stars:
 ⭐ ⭐ ⭐ ⭐ ⭐
 
 *(Optional) Briefly explain why you chose 1 star:*
-________________________________________________________________
+___________________________________________________
 
 *(Optional) Briefly explain why you chose 5 stars:*
-________________________________________________________________
+___________________________________________________
 
 ---
 
@@ -169,10 +167,10 @@ Rank the following resource out of 5 stars:
 ⭐ ⭐ ⭐ ⭐ ⭐
 
 *(Optional) Briefly explain why you chose 1 star:*
-________________________________________________________________
+___________________________________________________
 
 *(Optional) Briefly explain why you chose 5 stars:*
-________________________________________________________________
+___________________________________________________
 
 ---
 
