@@ -53,8 +53,8 @@ For each of the following sets of designs, select the one you prefer.
 ### UI Design 1
 Which design do you prefer?
 
-* **Variant A** ![Variant A 1](./UI%20Images/Variant%20A1.png)
-* **Variant B** ![Variant B 1](./UI%20Images/Variant%20B1.png)
+- [ ] **Variant A** ![Variant A 1](./UI%20Images/Variant%20A1.png)
+- [ ] **Variant B** ![Variant B 1](./UI%20Images/Variant%20B1.png)
 
 *(Optional) Briefly describe why you chose this design:* ________________________________________________________________
 
@@ -112,7 +112,6 @@ ___________________________________________________
 *(Optional) Briefly explain why you chose 5 stars:*
 ___________________________________________________
 
----
 
 ### Feature 2: Student Discussion Forums
 Rank the following resource out of 5 stars:
@@ -124,7 +123,6 @@ ___________________________________________________
 *(Optional) Briefly explain why you chose 5 stars:*
 ___________________________________________________
 
----
 
 ### Feature 3: Interactive Quizzes
 Rank the following resource out of 5 stars:
@@ -136,7 +134,6 @@ ___________________________________________________
 *(Optional) Briefly explain why you chose 5 stars:*
 ___________________________________________________
 
----
 
 ### Feature 4: Practice Exams
 Rank the following resource out of 5 stars:
@@ -148,7 +145,6 @@ ___________________________________________________
 *(Optional) Briefly explain why you chose 5 stars:*
 ___________________________________________________
 
----
 
 ### Feature 5: Offline Study Options
 Rank the following resource out of 5 stars:
@@ -160,7 +156,6 @@ ___________________________________________________
 *(Optional) Briefly explain why you chose 5 stars:*
 ___________________________________________________
 
----
 
 ### Feature 6: Moodle
 Rank the following resource out of 5 stars:
@@ -172,7 +167,6 @@ ___________________________________________________
 *(Optional) Briefly explain why you chose 5 stars:*
 ___________________________________________________
 
----
 
 ## Open-Ended Section
 **(Optional) Is there an e-learning resource not previously listed that you find helpful?** ________________________________________________________________
