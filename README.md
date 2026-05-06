@@ -16,7 +16,7 @@ _Some links are direct download links, since GitHub PDF previews sometimes rende
 
 - [Future Development Recommendations](https://raw.githubusercontent.com/We-Gold/teamgraduateai-supporting-materials/0b8feddcc4145bdf8328346e519e75b54fc713a9/_TeamGraduate_AI_Future_Recommendations.pdf)
 
-- [#TeamGraduate AI Documentation]()
+- [#TeamGraduate AI Documentation](https://raw.githubusercontent.com/We-Gold/teamgraduateai-supporting-materials/90b263d2e5e8e8aa2f31c4674fec4ef2f5043e02/_TeamGraduate_AI_Documentation.pdf)
 
 - [Namibian Students Survey](/Survey/survey.md)
     - _The survey results are not publicly available._
