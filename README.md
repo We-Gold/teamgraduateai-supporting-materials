@@ -21,8 +21,8 @@ _Some links are direct download links, since GitHub PDF previews sometimes rende
 - [Namibian Students Survey](/Survey/survey.md)
     - _The survey results are not publicly available._
 
-- [2026 Presentation] (
-    
+- [2026 Presentation](https://raw.githubusercontent.com/We-Gold/teamgraduateai-supporting-materials/4bc89005c8d102cfea2fbca6bb47553beb144581/Presentation/_TeamGraduate_Final_Presentation.pdf)
+
 ### Tutorials
 
 - [How to use #TeamGraduate AI teaching blocks](https://drive.google.com/file/d/1Dnti4XRSzclbv_JkOGJDG574Tjg-tSn8/view?usp=sharing)
