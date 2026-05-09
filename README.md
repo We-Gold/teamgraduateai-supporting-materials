@@ -8,6 +8,8 @@ The actual code is not publicly available, since we developed this product speci
 
 ## Report
 
+_The final report will also be available soon at [digital.wpi.edu](https://digital.wpi.edu/)_
+
 - [Final Report](https://raw.githubusercontent.com/We-Gold/teamgraduateai-supporting-materials/bcbf785d652cbe2c04426b8e65b15cd9d5118d9e/Empowering__TeamGraduate_Educators__Generative_AI_Tools_for_Secondary_E_Learning_in_Namibia.pdf)
 
 ## Supporting Materials
